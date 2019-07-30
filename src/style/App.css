@@ -1,0 +1,48 @@
+.App {
+    /* width: 30%; */
+    height: 500px;
+    margin: 0 auto;
+    padding-left: 1%;
+}
+.App #all {
+    color: #1890ff;
+    background-color: #fff;
+}
+.App .del,.App .updat {
+    color: #1890ff;
+}
+.App .finish {
+    color: #1890ff;
+}
+.App .unfinish {
+    color: red;
+}
+.App .updatInput {
+    margin: 0 1% 0 1%;
+}
+.App .content {
+    display: inline-block;
+    width: 30%;
+}
+.App .ant-input {
+    width: 200px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+.App ul {
+    margin: 0;
+    list-style: none;
+    padding: 0;
+}
+.App ul li {
+    margin-top: 1%;
+}
+.App ul li span {
+    margin: 0 2% 02%;
+}
+.App .btn-contain {
+    margin: 1% 0;
+}
+.App .btn-contain .ant-btn-primary {
+    margin-right: 2%;
+}
